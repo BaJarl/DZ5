@@ -1,0 +1,52 @@
+h2 {
+    color: rgb(197, 145, 145);
+}
+
+#id1 {
+    color: rgb(68, 153, 68);
+}
+
+.class1 {
+    color:rgb(138, 138, 206);
+}
+
+.class2, .class3 {
+    color:brown;
+}
+
+.class4 > #id2 {
+    color: blueviolet;
+}
+
+h1#id3 + #id4 {
+    color: coral;
+}
+
+div.class4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div.class4 > h1.class5 {
+color: crimson;
+}
+#id_red {
+    color: red;
+}
+#id_orange {
+    color: orange;
+}
+
+#id_yellow {
+    color: yellow;
+}
+#id_green {
+    color: green;
+}
+#id_skyblue {
+    color: skyblue;
+}
+#id_blue {
+    color: blue;
+} 
+#id_violet {
+    color: violet;
+}
